@@ -1,0 +1,32 @@
+{
+ "lid": "MNVN4",
+ "usgsId": "01400500",
+ "name": "Raritan River at Manville",
+ "wfo": {
+  "abbreviation": "PHI",
+  "name": "Mount Holly"
+ },
+ "latitude": 40.555555555556,
+ "longitude": -74.582777777778,
+ "flood": {
+  "stageUnits": "ft",
+  "categories": {
+   "major": {
+    "stage": 20,
+    "flow": -9999
+   },
+   "moderate": {
+    "stage": 17,
+    "flow": -9999
+   },
+   "minor": {
+    "stage": 14,
+    "flow": -9999
+   },
+   "action": {
+    "stage": 12,
+    "flow": 9100
+   }
+  }
+ }
+}

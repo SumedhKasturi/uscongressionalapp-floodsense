@@ -1,0 +1,200 @@
+{
+ "gauges": [
+  {
+   "lid": "BDBN4",
+   "name": "Middle Brook at Bound Brook",
+   "state": {
+    "abbreviation": "NJ",
+    "name": "New Jersey"
+   },
+   "latitude": 40.560555555556,
+   "longitude": -74.548055555556,
+   "status": {
+    "observed": {
+     "primary": 4.01,
+     "primaryUnit": "ft",
+     "secondary": -999,
+     "secondaryUnit": "kcfs",
+     "floodCategory": "no_flooding",
+     "validTime": "2026-10-25T10:30:00Z"
+    },
+    "forecast": {
+     "primary": -999,
+     "primaryUnit": "",
+     "secondary": -999,
+     "secondaryUnit": "",
+     "floodCategory": "fcst_not_current",
+     "validTime": "0001-01-01T00:00:00Z"
+    }
+   }
+  },
+  {
+   "lid": "BDKN4",
+   "name": "Raritan River at Bound Brook",
+   "state": {
+    "abbreviation": "NJ",
+    "name": "New Jersey"
+   },
+   "latitude": 40.551111111111,
+   "longitude": -74.548333333333,
+   "status": {
+    "observed": {
+     "primary": -999,
+     "primaryUnit": "",
+     "secondary": 0.296,
+     "secondaryUnit": "kcfs",
+     "floodCategory": "obs_not_current",
+     "validTime": "0001-01-01T00:00:00Z"
+    },
+    "forecast": {
+     "primary": 16.9,
+     "primaryUnit": "ft",
+     "secondary": 0.243,
+     "secondaryUnit": "kcfs",
+     "floodCategory": "no_flooding",
+     "validTime": "2026-10-25T12:00:00Z"
+    }
+   }
+  },
+  {
+   "lid": "MILN4",
+   "name": "Passaic River near Millington",
+   "state": {
+    "abbreviation": "NJ",
+    "name": "New Jersey"
+   },
+   "latitude": 40.68,
+   "longitude": -74.528888888889,
+   "status": {
+    "observed": {
+     "primary": 4.74,
+     "primaryUnit": "ft",
+     "secondary": 0.032,
+     "secondaryUnit": "kcfs",
+     "floodCategory": "minor",
+     "validTime": "2026-10-25T11:30:00Z"
+    },
+    "forecast": {
+     "primary": 4.7,
+     "primaryUnit": "ft",
+     "secondary": 0.029,
+     "secondaryUnit": "kcfs",
+     "floodCategory": "no_flooding",
+     "validTime": "2026-10-25T18:00:00Z"
+    }
+   }
+  },
+  {
+   "lid": "MNVN4",
+   "name": "Raritan River at Manville",
+   "state": {
+    "abbreviation": "NJ",
+    "name": "New Jersey"
+   },
+   "latitude": 40.555555555556,
+   "longitude": -74.582777777778,
+   "status": {
+    "observed": {
+     "primary": 4.39,
+     "primaryUnit": "ft",
+     "secondary": 0.403,
+     "secondaryUnit": "kcfs",
+     "floodCategory": "no_flooding",
+     "validTime": "2026-10-25T11:15:00Z"
+    },
+    "forecast": {
+     "primary": 4.2,
+     "primaryUnit": "ft",
+     "secondary": 0.29,
+     "secondaryUnit": "kcfs",
+     "floodCategory": "no_flooding",
+     "validTime": "2026-10-25T18:00:00Z"
+    }
+   }
+  },
+  {
+   "lid": "MRTN4",
+   "name": "West Branch Middle Brook near Martinsville",
+   "state": {
+    "abbreviation": "NJ",
+    "name": "New Jersey"
+   },
+   "latitude": 40.612222222222,
+   "longitude": -74.591111111111,
+   "status": {
+    "observed": {
+     "primary": 2.03,
+     "primaryUnit": "ft",
+     "secondary": 0,
+     "secondaryUnit": "kcfs",
+     "floodCategory": "no_flooding",
+     "validTime": "2026-10-25T10:56:00Z"
+    },
+    "forecast": {
+     "primary": -999,
+     "primaryUnit": "",
+     "secondary": -999,
+     "secondaryUnit": "",
+     "floodCategory": "fcst_not_current",
+     "validTime": "0001-01-01T00:00:00Z"
+    }
+   }
+  },
+  {
+   "lid": "SMVN4",
+   "name": "Peters Brook at Somerville",
+   "state": {
+    "abbreviation": "NJ",
+    "name": "New Jersey"
+   },
+   "latitude": 40.575,
+   "longitude": -74.615833333333,
+   "status": {
+    "observed": {
+     "primary": 1.79,
+     "primaryUnit": "ft",
+     "secondary": -999,
+     "secondaryUnit": "kcfs",
+     "floodCategory": "not_defined",
+     "validTime": "2026-10-25T11:00:00Z"
+    },
+    "forecast": {
+     "primary": -999,
+     "primaryUnit": "",
+     "secondary": -999,
+     "secondaryUnit": "",
+     "floodCategory": "fcst_not_current",
+     "validTime": "0001-01-01T00:00:00Z"
+    }
+   }
+  },
+  {
+   "lid": "SPTN4",
+   "name": "Manalapan Brook at Spotswood",
+   "state": {
+    "abbreviation": "NJ",
+    "name": "New Jersey"
+   },
+   "latitude": 40.389444444444,
+   "longitude": -74.390833333333,
+   "status": {
+    "observed": {
+     "primary": 10.04,
+     "primaryUnit": "ft",
+     "secondary": -999,
+     "secondaryUnit": "kcfs",
+     "floodCategory": "no_flooding",
+     "validTime": "2026-10-25T11:15:00Z"
+    },
+    "forecast": {
+     "primary": -999,
+     "primaryUnit": "",
+     "secondary": -999,
+     "secondaryUnit": "",
+     "floodCategory": "fcst_not_current",
+     "validTime": "0001-01-01T00:00:00Z"
+    }
+   }
+  }
+ ]
+}

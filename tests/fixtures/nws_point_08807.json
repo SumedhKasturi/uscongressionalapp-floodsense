@@ -1,0 +1,43 @@
+{
+ "type": "Feature",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -74.6116,
+   40.5934
+  ]
+ },
+ "properties": {
+  "@id": "https://api.weather.gov/points/40.5934,-74.6116",
+  "gridId": "PHI",
+  "gridX": 64,
+  "gridY": 110,
+  "forecast": "https://api.weather.gov/gridpoints/PHI/64,110/forecast",
+  "forecastHourly": "https://api.weather.gov/gridpoints/PHI/64,110/forecast/hourly",
+  "forecastGridData": "https://api.weather.gov/gridpoints/PHI/64,110",
+  "forecastZone": "https://api.weather.gov/zones/forecast/NJZ010",
+  "county": "https://api.weather.gov/zones/county/NJC035",
+  "relativeLocation": {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.6145108,
+     40.6047253
+    ]
+   },
+   "properties": {
+    "city": "Green Knoll",
+    "state": "NJ",
+    "distance": {
+     "unitCode": "wmoUnit:m",
+     "value": 0
+    },
+    "bearing": {
+     "unitCode": "wmoUnit:degree_(angle)",
+     "value": 0
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,26 @@
+services:
+  app:
+    build: .
+    image: uscongressionalapp-floodsense:local
+    ports:
+      - "8501:8501"
+    volumes:
+      # Secrets stay on the host (git-ignored) and are mounted read-only.
+      # create_host_path: false makes compose fail clearly if the file is missing
+      # (instead of silently creating a directory at that path).
+      - type: bind
+        source: ./.streamlit/secrets.toml
+        target: /app/.streamlit/secrets.toml
+        read_only: true
+        bind:
+          create_host_path: false
+      # Live API cache survives container restarts.
+      - type: volume
+        source: uscongressionalapp-floodsense-cache
+        target: /app/data/cache
+      # Daily app logs land in uscongressionalapp-floodsense/log/ on the host.
+      - ./log:/app/log
+    restart: unless-stopped
+
+volumes:
+  uscongressionalapp-floodsense-cache:

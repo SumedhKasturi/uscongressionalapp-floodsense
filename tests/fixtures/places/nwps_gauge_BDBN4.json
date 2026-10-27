@@ -1,0 +1,32 @@
+{
+ "lid": "BDBN4",
+ "usgsId": "01403200",
+ "name": "Middle Brook at Bound Brook",
+ "wfo": {
+  "abbreviation": "PHI",
+  "name": "Mount Holly"
+ },
+ "latitude": 40.560555555556,
+ "longitude": -74.548055555556,
+ "flood": {
+  "stageUnits": "ft",
+  "categories": {
+   "major": {
+    "stage": -9999,
+    "flow": -9999
+   },
+   "moderate": {
+    "stage": -9999,
+    "flow": -9999
+   },
+   "minor": {
+    "stage": 11,
+    "flow": -9999
+   },
+   "action": {
+    "stage": 10,
+    "flow": -9999
+   }
+  }
+ }
+}

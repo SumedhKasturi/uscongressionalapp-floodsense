@@ -1,0 +1,70 @@
+{
+ "displayFieldName": "SHELTER_NAME",
+ "geometryType": "esriGeometryPoint",
+ "spatialReference": {
+  "wkid": 4326,
+  "latestWkid": 4326
+ },
+ "features": [
+  {
+   "attributes": {
+    "objectid": 2100430,
+    "shelter_id": 368570,
+    "shelter_name": "Rock Point Community School",
+    "address": "US-North HWY 191",
+    "city": "Rock Point",
+    "state": "AZ",
+    "zip": "86545",
+    "shelter_status": "OPEN",
+    "evacuation_capacity": null,
+    "post_impact_capacity": null,
+    "total_population": 1,
+    "hours_open": null,
+    "hours_close": null,
+    "org_name": "Independent",
+    "org_id": 126166,
+    "match_type": null,
+    "subfacility_code": "GENPOPSHEL",
+    "ada_compliant": null,
+    "pet_accommodations_code": null,
+    "wheelchair_accessible": null,
+    "latitude": null,
+    "longitude": null
+   },
+   "geometry": {
+    "x": -109.62600498999996,
+    "y": 36.71826738000004
+   }
+  },
+  {
+   "attributes": {
+    "objectid": 2100431,
+    "shelter_id": 169575,
+    "shelter_name": "Bellevue Recreation Center",
+    "address": "826 Lucile Avenue",
+    "city": "Los Angeles",
+    "state": "CA",
+    "zip": "90026",
+    "shelter_status": "OPEN",
+    "evacuation_capacity": 0,
+    "post_impact_capacity": 50,
+    "total_population": 23,
+    "hours_open": null,
+    "hours_close": null,
+    "org_name": "ARC OF GREATER LOS ANGELES",
+    "org_id": 121973,
+    "match_type": "A",
+    "subfacility_code": "GENPOPSHEL",
+    "ada_compliant": " ",
+    "pet_accommodations_code": " ",
+    "wheelchair_accessible": " ",
+    "latitude": 34.08416355,
+    "longitude": -118.28337234
+   },
+   "geometry": {
+    "x": -118.28337233799999,
+    "y": 34.08416355000003
+   }
+  }
+ ]
+}

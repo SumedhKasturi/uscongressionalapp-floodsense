@@ -1,0 +1,32 @@
+{
+ "lid": "SMVN4",
+ "usgsId": "01400360",
+ "name": "Peters Brook at Somerville",
+ "wfo": {
+  "abbreviation": "PHI",
+  "name": "Mount Holly"
+ },
+ "latitude": 40.575,
+ "longitude": -74.615833333333,
+ "flood": {
+  "stageUnits": "ft",
+  "categories": {
+   "major": {
+    "stage": -9999,
+    "flow": -9999
+   },
+   "moderate": {
+    "stage": -9999,
+    "flow": -9999
+   },
+   "minor": {
+    "stage": -9999,
+    "flow": -9999
+   },
+   "action": {
+    "stage": -9999,
+    "flow": -9999
+   }
+  }
+ }
+}

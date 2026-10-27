@@ -1,0 +1,43 @@
+{
+ "type": "Feature",
+ "geometry": {
+  "type": "Point",
+  "coordinates": [
+   -73.9967,
+   40.7484
+  ]
+ },
+ "properties": {
+  "@id": "https://api.weather.gov/points/40.7484,-73.9967",
+  "gridId": "OKX",
+  "gridX": 33,
+  "gridY": 44,
+  "forecast": "https://api.weather.gov/gridpoints/OKX/33,44/forecast",
+  "forecastHourly": "https://api.weather.gov/gridpoints/OKX/33,44/forecast/hourly",
+  "forecastGridData": "https://api.weather.gov/gridpoints/OKX/33,44",
+  "forecastZone": "https://api.weather.gov/zones/forecast/NYZ072",
+  "county": "https://api.weather.gov/zones/county/NYC061",
+  "relativeLocation": {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9386769,
+     40.6627117
+    ]
+   },
+   "properties": {
+    "city": "New York",
+    "state": "NY",
+    "distance": {
+     "unitCode": "wmoUnit:m",
+     "value": 0
+    },
+    "bearing": {
+     "unitCode": "wmoUnit:degree_(angle)",
+     "value": 0
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,16 @@
+# Pinned for Python 3.12 (Docker base image python:3.12-slim).
+streamlit==1.66.1
+requests==2.34.2
+pgeocode==0.5.0
+pandas==3.0.6
+# Knowledge graph (story 3); drawn with Altair, which Streamlit already installs
+networkx==3.7
+altair==6.3.0
+# QR code for the phone-alerts subscribe link (story 6); Pillow comes with Streamlit
+qrcode==8.2
+# Local news RSS (story 8)
+feedparser==6.0.14
+# Tests
+pytest==9.1.1
+responses==0.26.3
+PyYAML==6.0.3

@@ -1,0 +1,297 @@
+{
+ "name": "ns1:timeSeriesResponseType",
+ "value": {
+  "timeSeries": [
+   {
+    "sourceInfo": {
+     "siteName": "North Branch Raritan River near Raritan NJ",
+     "siteCode": [
+      {
+       "value": "01400000",
+       "network": "NWIS",
+       "agencyCode": "USGS"
+      }
+     ],
+     "geoLocation": {
+      "geogLocation": {
+       "srs": "EPSG:4326",
+       "latitude": 40.57055556,
+       "longitude": -74.67916667
+      },
+      "localSiteXY": []
+     }
+    },
+    "variable": {
+     "variableCode": [
+      {
+       "value": "00065",
+       "network": "NWIS",
+       "vocabulary": "NWIS:UnitValues",
+       "variableID": 45807202,
+       "default": true
+      }
+     ],
+     "variableName": "Gage height, ft",
+     "unit": {
+      "unitCode": "ft"
+     }
+    },
+    "values": [
+     {
+      "value": [
+       {
+        "value": "2.77",
+        "qualifiers": [
+         "P"
+        ],
+        "dateTime": "2026-10-24T21:00:00.000-04:00"
+       }
+      ],
+      "qualifier": [
+       {
+        "qualifierCode": "P",
+        "qualifierDescription": "Provisional data subject to revision.",
+        "qualifierID": 0,
+        "network": "NWIS",
+        "vocabulary": "uv_rmk_cd"
+       }
+      ]
+     }
+    ],
+    "name": "USGS:01400000:00065:00000"
+   },
+   {
+    "sourceInfo": {
+     "siteName": "Raritan River at Manville NJ",
+     "siteCode": [
+      {
+       "value": "01400500",
+       "network": "NWIS",
+       "agencyCode": "USGS"
+      }
+     ],
+     "geoLocation": {
+      "geogLocation": {
+       "srs": "EPSG:4326",
+       "latitude": 40.55555556,
+       "longitude": -74.58277778
+      },
+      "localSiteXY": []
+     }
+    },
+    "variable": {
+     "variableCode": [
+      {
+       "value": "00065",
+       "network": "NWIS",
+       "vocabulary": "NWIS:UnitValues",
+       "variableID": 45807202,
+       "default": true
+      }
+     ],
+     "variableName": "Gage height, ft",
+     "unit": {
+      "unitCode": "ft"
+     }
+    },
+    "values": [
+     {
+      "value": [
+       {
+        "value": "4.21",
+        "qualifiers": [
+         "P"
+        ],
+        "dateTime": "2026-10-24T20:15:00.000-04:00"
+       }
+      ],
+      "qualifier": [
+       {
+        "qualifierCode": "P",
+        "qualifierDescription": "Provisional data subject to revision.",
+        "qualifierID": 0,
+        "network": "NWIS",
+        "vocabulary": "uv_rmk_cd"
+       }
+      ]
+     }
+    ],
+    "name": "USGS:01400500:00065:00000"
+   },
+   {
+    "sourceInfo": {
+     "siteName": "Raritan River below Calco Dam at Bound Brook NJ",
+     "siteCode": [
+      {
+       "value": "01403060",
+       "network": "NWIS",
+       "agencyCode": "USGS"
+      }
+     ],
+     "geoLocation": {
+      "geogLocation": {
+       "srs": "EPSG:4326",
+       "latitude": 40.55111111,
+       "longitude": -74.54833333
+      },
+      "localSiteXY": []
+     }
+    },
+    "variable": {
+     "variableCode": [
+      {
+       "value": "00065",
+       "network": "NWIS",
+       "vocabulary": "NWIS:UnitValues",
+       "variableID": 45807202,
+       "default": true
+      }
+     ],
+     "variableName": "Gage height, ft",
+     "unit": {
+      "unitCode": "ft"
+     }
+    },
+    "values": [
+     {
+      "value": [
+       {
+        "value": "16.97",
+        "qualifiers": [
+         "P"
+        ],
+        "dateTime": "2026-10-24T20:15:00.000-04:00"
+       }
+      ],
+      "qualifier": [
+       {
+        "qualifierCode": "P",
+        "qualifierDescription": "Provisional data subject to revision.",
+        "qualifierID": 0,
+        "network": "NWIS",
+        "vocabulary": "uv_rmk_cd"
+       }
+      ]
+     }
+    ],
+    "name": "USGS:01403060:00065:00000"
+   },
+   {
+    "sourceInfo": {
+     "siteName": "West Branch Middle Brook near Martinsville NJ",
+     "siteCode": [
+      {
+       "value": "01403150",
+       "network": "NWIS",
+       "agencyCode": "USGS"
+      }
+     ],
+     "geoLocation": {
+      "geogLocation": {
+       "srs": "EPSG:4326",
+       "latitude": 40.6122222,
+       "longitude": -74.5908333
+      },
+      "localSiteXY": []
+     }
+    },
+    "variable": {
+     "variableCode": [
+      {
+       "value": "00065",
+       "network": "NWIS",
+       "vocabulary": "NWIS:UnitValues",
+       "variableID": 45807202,
+       "default": true
+      }
+     ],
+     "variableName": "Gage height, ft",
+     "unit": {
+      "unitCode": "ft"
+     }
+    },
+    "values": [
+     {
+      "value": [
+       {
+        "value": "2.03",
+        "qualifiers": [
+         "P"
+        ],
+        "dateTime": "2026-10-24T21:10:00.000-04:00"
+       }
+      ],
+      "qualifier": [
+       {
+        "qualifierCode": "P",
+        "qualifierDescription": "Provisional data subject to revision.",
+        "qualifierID": 0,
+        "network": "NWIS",
+        "vocabulary": "uv_rmk_cd"
+       }
+      ]
+     }
+    ],
+    "name": "USGS:01403150:00065:00000"
+   },
+   {
+    "sourceInfo": {
+     "siteName": "Middle Brook at Bound Brook NJ",
+     "siteCode": [
+      {
+       "value": "01403200",
+       "network": "NWIS",
+       "agencyCode": "USGS"
+      }
+     ],
+     "geoLocation": {
+      "geogLocation": {
+       "srs": "EPSG:4326",
+       "latitude": 40.56083333,
+       "longitude": -74.54888889
+      },
+      "localSiteXY": []
+     }
+    },
+    "variable": {
+     "variableCode": [
+      {
+       "value": "00065",
+       "network": "NWIS",
+       "vocabulary": "NWIS:UnitValues",
+       "variableID": 45807202,
+       "default": true
+      }
+     ],
+     "variableName": "Gage height, ft",
+     "unit": {
+      "unitCode": "ft"
+     }
+    },
+    "values": [
+     {
+      "value": [
+       {
+        "value": "4.06",
+        "qualifiers": [
+         "P"
+        ],
+        "dateTime": "2026-10-24T20:30:00.000-04:00"
+       }
+      ],
+      "qualifier": [
+       {
+        "qualifierCode": "P",
+        "qualifierDescription": "Provisional data subject to revision.",
+        "qualifierID": 0,
+        "network": "NWIS",
+        "vocabulary": "uv_rmk_cd"
+       }
+      ]
+     }
+    ],
+    "name": "USGS:01403200:00065:00000"
+   }
+  ]
+ }
+}

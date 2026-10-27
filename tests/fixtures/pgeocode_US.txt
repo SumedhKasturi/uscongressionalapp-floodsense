@@ -1,0 +1,5 @@
+country_code,postal_code,place_name,state_name,state_code,county_name,county_code,community_name,community_code,latitude,longitude,accuracy
+US,08805,Bound Brook,New Jersey,NJ,Somerset,35.0,,,40.5681,-74.5397,4.0
+US,08807,Bridgewater,New Jersey,NJ,Somerset,35.0,,,40.5904,-74.6267,4.0
+US,08876,Somerville,New Jersey,NJ,Somerset,35.0,,,40.588,-74.6874,4.0
+US,10001,New York,New York,NY,New York,61.0,,,40.7484,-73.9967,4.0

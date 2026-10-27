@@ -1,0 +1,32 @@
+{
+ "lid": "MILN4",
+ "usgsId": "01379000",
+ "name": "Passaic River near Millington",
+ "wfo": {
+  "abbreviation": "PHI",
+  "name": "Mount Holly"
+ },
+ "latitude": 40.68,
+ "longitude": -74.528888888889,
+ "flood": {
+  "stageUnits": "ft",
+  "categories": {
+   "major": {
+    "stage": 9.8,
+    "flow": -9999
+   },
+   "moderate": {
+    "stage": 9,
+    "flow": -9999
+   },
+   "minor": {
+    "stage": 8,
+    "flow": -9999
+   },
+   "action": {
+    "stage": 7,
+    "flow": 580
+   }
+  }
+ }
+}

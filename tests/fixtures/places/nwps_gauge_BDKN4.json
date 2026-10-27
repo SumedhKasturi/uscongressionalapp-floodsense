@@ -1,0 +1,32 @@
+{
+ "lid": "BDKN4",
+ "usgsId": "01403060",
+ "name": "Raritan River at Bound Brook",
+ "wfo": {
+  "abbreviation": "PHI",
+  "name": "Mount Holly"
+ },
+ "latitude": 40.551111111111,
+ "longitude": -74.548333333333,
+ "flood": {
+  "stageUnits": "ft",
+  "categories": {
+   "major": {
+    "stage": 33,
+    "flow": -9999
+   },
+   "moderate": {
+    "stage": 30,
+    "flow": -9999
+   },
+   "minor": {
+    "stage": 28,
+    "flow": -9999
+   },
+   "action": {
+    "stage": 26,
+    "flow": 13100
+   }
+  }
+ }
+}

@@ -1,0 +1,32 @@
+{
+ "lid": "SPTN4",
+ "usgsId": "01405400",
+ "name": "Manalapan Brook at Spotswood",
+ "wfo": {
+  "abbreviation": "PHI",
+  "name": "Mount Holly"
+ },
+ "latitude": 40.389444444444,
+ "longitude": -74.390833333333,
+ "flood": {
+  "stageUnits": "ft",
+  "categories": {
+   "major": {
+    "stage": 22,
+    "flow": -9999
+   },
+   "moderate": {
+    "stage": 21,
+    "flow": -9999
+   },
+   "minor": {
+    "stage": 19,
+    "flow": -9999
+   },
+   "action": {
+    "stage": 18.5,
+    "flow": 590
+   }
+  }
+ }
+}

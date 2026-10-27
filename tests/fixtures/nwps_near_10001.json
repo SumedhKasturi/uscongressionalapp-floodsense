@@ -1,0 +1,172 @@
+{
+ "gauges": [
+  {
+   "lid": "BATN6",
+   "name": "New York Harbor at The Battery (IN MLLW)",
+   "state": {
+    "abbreviation": "NY",
+    "name": "New York"
+   },
+   "latitude": 40.700556,
+   "longitude": -74.014167,
+   "status": {
+    "observed": {
+     "primary": 5.81,
+     "primaryUnit": "ft",
+     "secondary": -999,
+     "secondaryUnit": "kcfs",
+     "floodCategory": "no_flooding",
+     "validTime": "2026-10-25T11:30:00Z"
+    },
+    "forecast": {
+     "primary": 6.5,
+     "primaryUnit": "ft",
+     "secondary": -999,
+     "secondaryUnit": "kcfs",
+     "floodCategory": "no_flooding",
+     "validTime": "2026-10-28T14:00:00Z"
+    }
+   }
+  },
+  {
+   "lid": "BGNN6",
+   "name": "Kill Van Kull at Bergen Point (IN MLLW)",
+   "state": {
+    "abbreviation": "NY",
+    "name": "New York"
+   },
+   "latitude": 40.639,
+   "longitude": -74.1463,
+   "status": {
+    "observed": {
+     "primary": -999,
+     "primaryUnit": "",
+     "secondary": -999,
+     "secondaryUnit": "",
+     "floodCategory": "obs_not_current",
+     "validTime": "0001-01-01T00:00:00Z"
+    },
+    "forecast": {
+     "primary": 6.9,
+     "primaryUnit": "ft",
+     "secondary": -999,
+     "secondaryUnit": "kcfs",
+     "floodCategory": "no_flooding",
+     "validTime": "2026-10-28T14:00:00Z"
+    }
+   }
+  },
+  {
+   "lid": "HAMN6",
+   "name": "Hutchinson River at Pelham",
+   "state": {
+    "abbreviation": "NY",
+    "name": "New York"
+   },
+   "latitude": 40.911388888889,
+   "longitude": -73.813611111111,
+   "status": {
+    "observed": {
+     "primary": -999,
+     "primaryUnit": "",
+     "secondary": -999,
+     "secondaryUnit": "",
+     "floodCategory": "out_of_service",
+     "validTime": "0001-01-01T00:00:00Z"
+    },
+    "forecast": {
+     "primary": -999,
+     "primaryUnit": "",
+     "secondary": -999,
+     "secondaryUnit": "",
+     "floodCategory": "out_of_service",
+     "validTime": "0001-01-01T00:00:00Z"
+    }
+   }
+  },
+  {
+   "lid": "NWKN4",
+   "name": "Passaic River at Newark (IN MLLW)",
+   "state": {
+    "abbreviation": "NJ",
+    "name": "New Jersey"
+   },
+   "latitude": 40.7133333,
+   "longitude": -74.12305555,
+   "status": {
+    "observed": {
+     "primary": 6.75,
+     "primaryUnit": "ft",
+     "secondary": -999,
+     "secondaryUnit": "kcfs",
+     "floodCategory": "no_flooding",
+     "validTime": "2026-10-25T11:30:00Z"
+    },
+    "forecast": {
+     "primary": -999,
+     "primaryUnit": "",
+     "secondary": -999,
+     "secondaryUnit": "",
+     "floodCategory": "fcst_not_current",
+     "validTime": "0001-01-01T00:00:00Z"
+    }
+   }
+  },
+  {
+   "lid": "THRN4",
+   "name": "Third River at Bloomfield",
+   "state": {
+    "abbreviation": "NJ",
+    "name": "New Jersey"
+   },
+   "latitude": 40.799722222222,
+   "longitude": -74.188333333333,
+   "status": {
+    "observed": {
+     "primary": 1.92,
+     "primaryUnit": "ft",
+     "secondary": -999,
+     "secondaryUnit": "kcfs",
+     "floodCategory": "no_flooding",
+     "validTime": "2026-10-25T11:00:00Z"
+    },
+    "forecast": {
+     "primary": -999,
+     "primaryUnit": "",
+     "secondary": -999,
+     "secondaryUnit": "",
+     "floodCategory": "fcst_not_current",
+     "validTime": "0001-01-01T00:00:00Z"
+    }
+   }
+  },
+  {
+   "lid": "VRON4",
+   "name": "Peckman River at Verona",
+   "state": {
+    "abbreviation": "NJ",
+    "name": "New Jersey"
+   },
+   "latitude": 40.845,
+   "longitude": -74.235833333333,
+   "status": {
+    "observed": {
+     "primary": -0.53,
+     "primaryUnit": "ft",
+     "secondary": -999,
+     "secondaryUnit": "kcfs",
+     "floodCategory": "no_flooding",
+     "validTime": "2026-10-25T11:40:00Z"
+    },
+    "forecast": {
+     "primary": -999,
+     "primaryUnit": "",
+     "secondary": -999,
+     "secondaryUnit": "",
+     "floodCategory": "fcst_not_current",
+     "validTime": "0001-01-01T00:00:00Z"
+    }
+   }
+  }
+ ]
+}

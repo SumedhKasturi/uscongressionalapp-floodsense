@@ -1,0 +1,32 @@
+{
+ "lid": "MRTN4",
+ "usgsId": "01403150",
+ "name": "West Branch Middle Brook near Martinsville",
+ "wfo": {
+  "abbreviation": "PHI",
+  "name": "Mount Holly"
+ },
+ "latitude": 40.612222222222,
+ "longitude": -74.591111111111,
+ "flood": {
+  "stageUnits": "ft",
+  "categories": {
+   "major": {
+    "stage": -9999,
+    "flow": -9999
+   },
+   "moderate": {
+    "stage": -9999,
+    "flow": -9999
+   },
+   "minor": {
+    "stage": 6,
+    "flow": -9999
+   },
+   "action": {
+    "stage": 5,
+    "flow": -9999
+   }
+  }
+ }
+}

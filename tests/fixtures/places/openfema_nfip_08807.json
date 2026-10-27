@@ -1,0 +1,1566 @@
+{
+ "metadata": {
+  "skip": 0,
+  "select": "yearOfLoss, amountPaidOnBuildingClaim, amountPaidOnContentsClaim, amountPaidOnIncreasedCostOfComplianceClaim, dateOfLoss",
+  "rundate": "2026-10-25T14:25:16.953Z",
+  "top": 1000,
+  "filter": "reportedZipCode eq '08807'",
+  "format": "json",
+  "metadata": true,
+  "orderby": "",
+  "entityname": "NfipClaims",
+  "version": "v3",
+  "url": "/api/open/v3/NfipClaims?$filter=reportedZipCode+eq+%2708807%27&$top=1000&$select=yearOfLoss%2camountPaidOnBuildingClaim%2camountPaidOnContentsClaim%2camountPaidOnIncreasedCostOfComplianceClaim%2cdateOfLoss&$count=true",
+  "count": 258
+ },
+ "NfipClaims": [
+  {
+   "yearOfLoss": 2021,
+   "amountPaidOnBuildingClaim": 1380.11,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2005,
+   "amountPaidOnBuildingClaim": null,
+   "amountPaidOnContentsClaim": null,
+   "amountPaidOnIncreasedCostOfComplianceClaim": null
+  },
+  {
+   "yearOfLoss": 1984,
+   "amountPaidOnBuildingClaim": 6193.31,
+   "amountPaidOnContentsClaim": 2221.7,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2021,
+   "amountPaidOnBuildingClaim": 250000,
+   "amountPaidOnContentsClaim": 50000,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1979,
+   "amountPaidOnBuildingClaim": 385,
+   "amountPaidOnContentsClaim": 345,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2021,
+   "amountPaidOnBuildingClaim": 6954.97,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2011,
+   "amountPaidOnBuildingClaim": 142944.48,
+   "amountPaidOnContentsClaim": 80494.25,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2021,
+   "amountPaidOnBuildingClaim": 2688.96,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2022,
+   "amountPaidOnBuildingClaim": null,
+   "amountPaidOnContentsClaim": null,
+   "amountPaidOnIncreasedCostOfComplianceClaim": null
+  },
+  {
+   "yearOfLoss": 1984,
+   "amountPaidOnBuildingClaim": 150,
+   "amountPaidOnContentsClaim": 616,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1996,
+   "amountPaidOnBuildingClaim": 9834.52,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1996,
+   "amountPaidOnBuildingClaim": 2648.13,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2012,
+   "amountPaidOnBuildingClaim": 10590.98,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1982,
+   "amountPaidOnBuildingClaim": 552.2,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2021,
+   "amountPaidOnBuildingClaim": 30308.84,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1984,
+   "amountPaidOnBuildingClaim": 9315,
+   "amountPaidOnContentsClaim": 5300,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1999,
+   "amountPaidOnBuildingClaim": 14129.28,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1999,
+   "amountPaidOnBuildingClaim": 15531.85,
+   "amountPaidOnContentsClaim": 8158.46,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2011,
+   "amountPaidOnBuildingClaim": 10244.46,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2011,
+   "amountPaidOnBuildingClaim": 9027.31,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2019,
+   "amountPaidOnBuildingClaim": null,
+   "amountPaidOnContentsClaim": null,
+   "amountPaidOnIncreasedCostOfComplianceClaim": null
+  },
+  {
+   "yearOfLoss": 2021,
+   "amountPaidOnBuildingClaim": 54696.12,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2011,
+   "amountPaidOnBuildingClaim": 10195.19,
+   "amountPaidOnContentsClaim": 53400,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2011,
+   "amountPaidOnBuildingClaim": 3192.78,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2011,
+   "amountPaidOnBuildingClaim": 32508.53,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 10899
+  },
+  {
+   "yearOfLoss": 2021,
+   "amountPaidOnBuildingClaim": 85721.99,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2000,
+   "amountPaidOnBuildingClaim": 2275.48,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2021,
+   "amountPaidOnBuildingClaim": 3939.14,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1983,
+   "amountPaidOnBuildingClaim": null,
+   "amountPaidOnContentsClaim": null,
+   "amountPaidOnIncreasedCostOfComplianceClaim": null
+  },
+  {
+   "yearOfLoss": 2004,
+   "amountPaidOnBuildingClaim": null,
+   "amountPaidOnContentsClaim": null,
+   "amountPaidOnIncreasedCostOfComplianceClaim": null
+  },
+  {
+   "yearOfLoss": 1996,
+   "amountPaidOnBuildingClaim": 32000,
+   "amountPaidOnContentsClaim": 13359.41,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2021,
+   "amountPaidOnBuildingClaim": 13386.39,
+   "amountPaidOnContentsClaim": 334.84,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1996,
+   "amountPaidOnBuildingClaim": null,
+   "amountPaidOnContentsClaim": null,
+   "amountPaidOnIncreasedCostOfComplianceClaim": null
+  },
+  {
+   "yearOfLoss": 1996,
+   "amountPaidOnBuildingClaim": 3382.72,
+   "amountPaidOnContentsClaim": 248.75,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1994,
+   "amountPaidOnBuildingClaim": 1270.89,
+   "amountPaidOnContentsClaim": 469.22,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1984,
+   "amountPaidOnBuildingClaim": 2162.05,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2007,
+   "amountPaidOnBuildingClaim": 24396.47,
+   "amountPaidOnContentsClaim": 5897.61,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1978,
+   "amountPaidOnBuildingClaim": null,
+   "amountPaidOnContentsClaim": null,
+   "amountPaidOnIncreasedCostOfComplianceClaim": null
+  },
+  {
+   "yearOfLoss": 2011,
+   "amountPaidOnBuildingClaim": 49559.94,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2003,
+   "amountPaidOnBuildingClaim": null,
+   "amountPaidOnContentsClaim": null,
+   "amountPaidOnIncreasedCostOfComplianceClaim": null
+  },
+  {
+   "yearOfLoss": 1994,
+   "amountPaidOnBuildingClaim": null,
+   "amountPaidOnContentsClaim": null,
+   "amountPaidOnIncreasedCostOfComplianceClaim": null
+  },
+  {
+   "yearOfLoss": 2021,
+   "amountPaidOnBuildingClaim": 12013.62,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2007,
+   "amountPaidOnBuildingClaim": 37900.9,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2007,
+   "amountPaidOnBuildingClaim": null,
+   "amountPaidOnContentsClaim": null,
+   "amountPaidOnIncreasedCostOfComplianceClaim": null
+  },
+  {
+   "yearOfLoss": 2007,
+   "amountPaidOnBuildingClaim": null,
+   "amountPaidOnContentsClaim": null,
+   "amountPaidOnIncreasedCostOfComplianceClaim": null
+  },
+  {
+   "yearOfLoss": 2021,
+   "amountPaidOnBuildingClaim": 50000,
+   "amountPaidOnContentsClaim": 50000,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2021,
+   "amountPaidOnBuildingClaim": 89408.58,
+   "amountPaidOnContentsClaim": 3200,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2010,
+   "amountPaidOnBuildingClaim": 2876.18,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1999,
+   "amountPaidOnBuildingClaim": 6027.54,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2011,
+   "amountPaidOnBuildingClaim": null,
+   "amountPaidOnContentsClaim": null,
+   "amountPaidOnIncreasedCostOfComplianceClaim": null
+  },
+  {
+   "yearOfLoss": 2002,
+   "amountPaidOnBuildingClaim": 6070,
+   "amountPaidOnContentsClaim": 190.99,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2021,
+   "amountPaidOnBuildingClaim": 78707.64,
+   "amountPaidOnContentsClaim": 177661.41,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1984,
+   "amountPaidOnBuildingClaim": 0,
+   "amountPaidOnContentsClaim": 7258,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1979,
+   "amountPaidOnBuildingClaim": 3325,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1999,
+   "amountPaidOnBuildingClaim": 25302.73,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2010,
+   "amountPaidOnBuildingClaim": 26442.39,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1979,
+   "amountPaidOnBuildingClaim": 94,
+   "amountPaidOnContentsClaim": 11,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2021,
+   "amountPaidOnBuildingClaim": 0,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1984,
+   "amountPaidOnBuildingClaim": 10000,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1985,
+   "amountPaidOnBuildingClaim": null,
+   "amountPaidOnContentsClaim": null,
+   "amountPaidOnIncreasedCostOfComplianceClaim": null
+  },
+  {
+   "yearOfLoss": 2021,
+   "amountPaidOnBuildingClaim": 16000.1,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2021,
+   "amountPaidOnBuildingClaim": 37269.3,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1990,
+   "amountPaidOnBuildingClaim": 2896.9,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1996,
+   "amountPaidOnBuildingClaim": 31667.58,
+   "amountPaidOnContentsClaim": 42092.7,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1996,
+   "amountPaidOnBuildingClaim": 3259.33,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2021,
+   "amountPaidOnBuildingClaim": 35241.17,
+   "amountPaidOnContentsClaim": 12994.48,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2021,
+   "amountPaidOnBuildingClaim": 46900.06,
+   "amountPaidOnContentsClaim": 12000,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1984,
+   "amountPaidOnBuildingClaim": 2028,
+   "amountPaidOnContentsClaim": 418.72,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2021,
+   "amountPaidOnBuildingClaim": 0,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2021,
+   "amountPaidOnBuildingClaim": 19093.02,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2021,
+   "amountPaidOnBuildingClaim": 14702.87,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2023,
+   "amountPaidOnBuildingClaim": 3244.25,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1979,
+   "amountPaidOnBuildingClaim": null,
+   "amountPaidOnContentsClaim": null,
+   "amountPaidOnIncreasedCostOfComplianceClaim": null
+  },
+  {
+   "yearOfLoss": 1999,
+   "amountPaidOnBuildingClaim": 14551.74,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2021,
+   "amountPaidOnBuildingClaim": 20845.28,
+   "amountPaidOnContentsClaim": 495.98,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2021,
+   "amountPaidOnBuildingClaim": 102110.34,
+   "amountPaidOnContentsClaim": 23371.24,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1982,
+   "amountPaidOnBuildingClaim": 848.95,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1999,
+   "amountPaidOnBuildingClaim": 10759.27,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1978,
+   "amountPaidOnBuildingClaim": 0,
+   "amountPaidOnContentsClaim": 1095,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2000,
+   "amountPaidOnBuildingClaim": 763.63,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1999,
+   "amountPaidOnBuildingClaim": 2674.84,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2021,
+   "amountPaidOnBuildingClaim": 183156.5,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1999,
+   "amountPaidOnBuildingClaim": 5695.38,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2012,
+   "amountPaidOnBuildingClaim": 12656.99,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2011,
+   "amountPaidOnBuildingClaim": 19500,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1996,
+   "amountPaidOnBuildingClaim": 12878.18,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2007,
+   "amountPaidOnBuildingClaim": null,
+   "amountPaidOnContentsClaim": null,
+   "amountPaidOnIncreasedCostOfComplianceClaim": null
+  },
+  {
+   "yearOfLoss": 2007,
+   "amountPaidOnBuildingClaim": 4161.28,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2011,
+   "amountPaidOnBuildingClaim": 19257.37,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1999,
+   "amountPaidOnBuildingClaim": 10951.69,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2022,
+   "amountPaidOnBuildingClaim": 6600.65,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1978,
+   "amountPaidOnBuildingClaim": 925.75,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2021,
+   "amountPaidOnBuildingClaim": 56402.52,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1999,
+   "amountPaidOnBuildingClaim": 27174.55,
+   "amountPaidOnContentsClaim": 5608.17,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2011,
+   "amountPaidOnBuildingClaim": 20610.49,
+   "amountPaidOnContentsClaim": 594.75,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1979,
+   "amountPaidOnBuildingClaim": 0,
+   "amountPaidOnContentsClaim": 2331.45,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1999,
+   "amountPaidOnBuildingClaim": 13263.39,
+   "amountPaidOnContentsClaim": 5000,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2011,
+   "amountPaidOnBuildingClaim": 72258.69,
+   "amountPaidOnContentsClaim": 37079.25,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 30000
+  },
+  {
+   "yearOfLoss": 2011,
+   "amountPaidOnBuildingClaim": 1161.92,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1982,
+   "amountPaidOnBuildingClaim": null,
+   "amountPaidOnContentsClaim": null,
+   "amountPaidOnIncreasedCostOfComplianceClaim": null
+  },
+  {
+   "yearOfLoss": 2021,
+   "amountPaidOnBuildingClaim": 10660.17,
+   "amountPaidOnContentsClaim": 1112.69,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2011,
+   "amountPaidOnBuildingClaim": 6543.83,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2021,
+   "amountPaidOnBuildingClaim": 58456.83,
+   "amountPaidOnContentsClaim": 6557.12,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2010,
+   "amountPaidOnBuildingClaim": 6785.6,
+   "amountPaidOnContentsClaim": 33987.09,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1984,
+   "amountPaidOnBuildingClaim": 1062,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1999,
+   "amountPaidOnBuildingClaim": 70949.4,
+   "amountPaidOnContentsClaim": 50000,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1999,
+   "amountPaidOnBuildingClaim": null,
+   "amountPaidOnContentsClaim": null,
+   "amountPaidOnIncreasedCostOfComplianceClaim": null
+  },
+  {
+   "yearOfLoss": 2021,
+   "amountPaidOnBuildingClaim": 91304.4,
+   "amountPaidOnContentsClaim": 6000,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2021,
+   "amountPaidOnBuildingClaim": 453936.67,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2015,
+   "amountPaidOnBuildingClaim": 4334.36,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2021,
+   "amountPaidOnBuildingClaim": 55898.25,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2011,
+   "amountPaidOnBuildingClaim": 1686.29,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1996,
+   "amountPaidOnBuildingClaim": 6900,
+   "amountPaidOnContentsClaim": 10857.44,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2021,
+   "amountPaidOnBuildingClaim": null,
+   "amountPaidOnContentsClaim": null,
+   "amountPaidOnIncreasedCostOfComplianceClaim": null
+  },
+  {
+   "yearOfLoss": 1999,
+   "amountPaidOnBuildingClaim": 17411.14,
+   "amountPaidOnContentsClaim": 3728.5,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2011,
+   "amountPaidOnBuildingClaim": 12337.33,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1983,
+   "amountPaidOnBuildingClaim": 6014.6,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2021,
+   "amountPaidOnBuildingClaim": 108183.42,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2011,
+   "amountPaidOnBuildingClaim": 13601.14,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2021,
+   "amountPaidOnBuildingClaim": 7127.31,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2021,
+   "amountPaidOnBuildingClaim": 10570.53,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1979,
+   "amountPaidOnBuildingClaim": 0,
+   "amountPaidOnContentsClaim": 6600,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2011,
+   "amountPaidOnBuildingClaim": 25376.5,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1996,
+   "amountPaidOnBuildingClaim": 2323.99,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1994,
+   "amountPaidOnBuildingClaim": null,
+   "amountPaidOnContentsClaim": null,
+   "amountPaidOnIncreasedCostOfComplianceClaim": null
+  },
+  {
+   "yearOfLoss": 1999,
+   "amountPaidOnBuildingClaim": 30130.85,
+   "amountPaidOnContentsClaim": 9902.7,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2011,
+   "amountPaidOnBuildingClaim": null,
+   "amountPaidOnContentsClaim": null,
+   "amountPaidOnIncreasedCostOfComplianceClaim": null
+  },
+  {
+   "yearOfLoss": 1999,
+   "amountPaidOnBuildingClaim": 4620.82,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2011,
+   "amountPaidOnBuildingClaim": 30785.7,
+   "amountPaidOnContentsClaim": 2522.2,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1998,
+   "amountPaidOnBuildingClaim": null,
+   "amountPaidOnContentsClaim": null,
+   "amountPaidOnIncreasedCostOfComplianceClaim": null
+  },
+  {
+   "yearOfLoss": 1996,
+   "amountPaidOnBuildingClaim": null,
+   "amountPaidOnContentsClaim": null,
+   "amountPaidOnIncreasedCostOfComplianceClaim": null
+  },
+  {
+   "yearOfLoss": 1979,
+   "amountPaidOnBuildingClaim": 1292,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1999,
+   "amountPaidOnBuildingClaim": 2240.55,
+   "amountPaidOnContentsClaim": 93.73,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2021,
+   "amountPaidOnBuildingClaim": 51938.87,
+   "amountPaidOnContentsClaim": 15005.19,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1996,
+   "amountPaidOnBuildingClaim": 22222.73,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2007,
+   "amountPaidOnBuildingClaim": 5335.56,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1984,
+   "amountPaidOnBuildingClaim": 70,
+   "amountPaidOnContentsClaim": 940,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2011,
+   "amountPaidOnBuildingClaim": 38047.22,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1999,
+   "amountPaidOnBuildingClaim": 190318,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2011,
+   "amountPaidOnBuildingClaim": 13173.97,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1979,
+   "amountPaidOnBuildingClaim": 1288.19,
+   "amountPaidOnContentsClaim": 575.7,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1999,
+   "amountPaidOnBuildingClaim": 43981.83,
+   "amountPaidOnContentsClaim": 8800,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2010,
+   "amountPaidOnBuildingClaim": 2537.76,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1999,
+   "amountPaidOnBuildingClaim": 23980.11,
+   "amountPaidOnContentsClaim": 4924.9,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2021,
+   "amountPaidOnBuildingClaim": 76008.46,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2021,
+   "amountPaidOnBuildingClaim": 0,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1989,
+   "amountPaidOnBuildingClaim": null,
+   "amountPaidOnContentsClaim": null,
+   "amountPaidOnIncreasedCostOfComplianceClaim": null
+  },
+  {
+   "yearOfLoss": 1979,
+   "amountPaidOnBuildingClaim": 1350,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2011,
+   "amountPaidOnBuildingClaim": 7290.12,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2011,
+   "amountPaidOnBuildingClaim": 53380.07,
+   "amountPaidOnContentsClaim": 2402.68,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2013,
+   "amountPaidOnBuildingClaim": 963.19,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1999,
+   "amountPaidOnBuildingClaim": 15207.24,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2011,
+   "amountPaidOnBuildingClaim": 26066.4,
+   "amountPaidOnContentsClaim": 18496.16,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1999,
+   "amountPaidOnBuildingClaim": 30570.88,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2011,
+   "amountPaidOnBuildingClaim": 43478.33,
+   "amountPaidOnContentsClaim": 6916.29,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2005,
+   "amountPaidOnBuildingClaim": null,
+   "amountPaidOnContentsClaim": null,
+   "amountPaidOnIncreasedCostOfComplianceClaim": null
+  },
+  {
+   "yearOfLoss": 2021,
+   "amountPaidOnBuildingClaim": 26578.6,
+   "amountPaidOnContentsClaim": 23937.51,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1996,
+   "amountPaidOnBuildingClaim": 28815.88,
+   "amountPaidOnContentsClaim": 2862.5,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1999,
+   "amountPaidOnBuildingClaim": 55100,
+   "amountPaidOnContentsClaim": 2500,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2021,
+   "amountPaidOnBuildingClaim": 187969.94,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1979,
+   "amountPaidOnBuildingClaim": 1725.44,
+   "amountPaidOnContentsClaim": 4478.7,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2007,
+   "amountPaidOnBuildingClaim": 5936.41,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2007,
+   "amountPaidOnBuildingClaim": null,
+   "amountPaidOnContentsClaim": null,
+   "amountPaidOnIncreasedCostOfComplianceClaim": null
+  },
+  {
+   "yearOfLoss": 2007,
+   "amountPaidOnBuildingClaim": 11833.34,
+   "amountPaidOnContentsClaim": 41900,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1999,
+   "amountPaidOnBuildingClaim": 6225.39,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1984,
+   "amountPaidOnBuildingClaim": 0,
+   "amountPaidOnContentsClaim": 308,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1999,
+   "amountPaidOnBuildingClaim": 6163.1,
+   "amountPaidOnContentsClaim": 109,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2011,
+   "amountPaidOnBuildingClaim": 7573.94,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2019,
+   "amountPaidOnBuildingClaim": null,
+   "amountPaidOnContentsClaim": null,
+   "amountPaidOnIncreasedCostOfComplianceClaim": null
+  },
+  {
+   "yearOfLoss": 2019,
+   "amountPaidOnBuildingClaim": 8099.3,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2004,
+   "amountPaidOnBuildingClaim": null,
+   "amountPaidOnContentsClaim": null,
+   "amountPaidOnIncreasedCostOfComplianceClaim": null
+  },
+  {
+   "yearOfLoss": 2021,
+   "amountPaidOnBuildingClaim": 49314.55,
+   "amountPaidOnContentsClaim": 14195.3,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1999,
+   "amountPaidOnBuildingClaim": 11755.68,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2021,
+   "amountPaidOnBuildingClaim": 62094.33,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2021,
+   "amountPaidOnBuildingClaim": 48683.42,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2021,
+   "amountPaidOnBuildingClaim": 2490.5,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2021,
+   "amountPaidOnBuildingClaim": 130345.11,
+   "amountPaidOnContentsClaim": 50000,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2011,
+   "amountPaidOnBuildingClaim": 3980.8,
+   "amountPaidOnContentsClaim": 1230.47,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2021,
+   "amountPaidOnBuildingClaim": 344240.32,
+   "amountPaidOnContentsClaim": 305973.8,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1979,
+   "amountPaidOnBuildingClaim": 1400,
+   "amountPaidOnContentsClaim": 51.59,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1996,
+   "amountPaidOnBuildingClaim": null,
+   "amountPaidOnContentsClaim": null,
+   "amountPaidOnIncreasedCostOfComplianceClaim": null
+  },
+  {
+   "yearOfLoss": 2011,
+   "amountPaidOnBuildingClaim": 1688.54,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2011,
+   "amountPaidOnBuildingClaim": 3000,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2023,
+   "amountPaidOnBuildingClaim": 1744.1,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2007,
+   "amountPaidOnBuildingClaim": 1342.5,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2011,
+   "amountPaidOnBuildingClaim": 109604.47,
+   "amountPaidOnContentsClaim": 12500,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1999,
+   "amountPaidOnBuildingClaim": 5665.13,
+   "amountPaidOnContentsClaim": 3200,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2012,
+   "amountPaidOnBuildingClaim": null,
+   "amountPaidOnContentsClaim": null,
+   "amountPaidOnIncreasedCostOfComplianceClaim": null
+  },
+  {
+   "yearOfLoss": 2021,
+   "amountPaidOnBuildingClaim": 271554.55,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1999,
+   "amountPaidOnBuildingClaim": 2060.89,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2021,
+   "amountPaidOnBuildingClaim": null,
+   "amountPaidOnContentsClaim": null,
+   "amountPaidOnIncreasedCostOfComplianceClaim": null
+  },
+  {
+   "yearOfLoss": 2006,
+   "amountPaidOnBuildingClaim": 7915.47,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2021,
+   "amountPaidOnBuildingClaim": 44310.92,
+   "amountPaidOnContentsClaim": 6285.81,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1999,
+   "amountPaidOnBuildingClaim": 78107.25,
+   "amountPaidOnContentsClaim": 15800,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1999,
+   "amountPaidOnBuildingClaim": 5043.14,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2011,
+   "amountPaidOnBuildingClaim": 3335.46,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2021,
+   "amountPaidOnBuildingClaim": 0,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2011,
+   "amountPaidOnBuildingClaim": 13379.16,
+   "amountPaidOnContentsClaim": 19275.89,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1994,
+   "amountPaidOnBuildingClaim": null,
+   "amountPaidOnContentsClaim": null,
+   "amountPaidOnIncreasedCostOfComplianceClaim": null
+  },
+  {
+   "yearOfLoss": 1999,
+   "amountPaidOnBuildingClaim": 59664.6,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2021,
+   "amountPaidOnBuildingClaim": 46600,
+   "amountPaidOnContentsClaim": 11600,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2011,
+   "amountPaidOnBuildingClaim": 97975.79,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2025,
+   "amountPaidOnBuildingClaim": 1477.8,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1999,
+   "amountPaidOnBuildingClaim": 9021.06,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1999,
+   "amountPaidOnBuildingClaim": 36805.43,
+   "amountPaidOnContentsClaim": 5501.28,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1996,
+   "amountPaidOnBuildingClaim": 6300,
+   "amountPaidOnContentsClaim": 17100,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2021,
+   "amountPaidOnBuildingClaim": null,
+   "amountPaidOnContentsClaim": null,
+   "amountPaidOnIncreasedCostOfComplianceClaim": null
+  },
+  {
+   "yearOfLoss": 2011,
+   "amountPaidOnBuildingClaim": 34707.75,
+   "amountPaidOnContentsClaim": 2573.75,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2021,
+   "amountPaidOnBuildingClaim": 0,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2021,
+   "amountPaidOnBuildingClaim": 14238.44,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2021,
+   "amountPaidOnBuildingClaim": 65995.97,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2021,
+   "amountPaidOnBuildingClaim": 118500,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1999,
+   "amountPaidOnBuildingClaim": 4568.81,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2011,
+   "amountPaidOnBuildingClaim": 27274.39,
+   "amountPaidOnContentsClaim": 2056.53,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2011,
+   "amountPaidOnBuildingClaim": 12558.34,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1999,
+   "amountPaidOnBuildingClaim": 1495.86,
+   "amountPaidOnContentsClaim": 1247.5,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2007,
+   "amountPaidOnBuildingClaim": 14517.04,
+   "amountPaidOnContentsClaim": 526.98,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2007,
+   "amountPaidOnBuildingClaim": null,
+   "amountPaidOnContentsClaim": null,
+   "amountPaidOnIncreasedCostOfComplianceClaim": null
+  },
+  {
+   "yearOfLoss": 1996,
+   "amountPaidOnBuildingClaim": 4826.79,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1996,
+   "amountPaidOnBuildingClaim": 17128.61,
+   "amountPaidOnContentsClaim": 15000,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2012,
+   "amountPaidOnBuildingClaim": null,
+   "amountPaidOnContentsClaim": null,
+   "amountPaidOnIncreasedCostOfComplianceClaim": null
+  },
+  {
+   "yearOfLoss": 1999,
+   "amountPaidOnBuildingClaim": 63925.23,
+   "amountPaidOnContentsClaim": 49801.65,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1979,
+   "amountPaidOnBuildingClaim": 224,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1996,
+   "amountPaidOnBuildingClaim": null,
+   "amountPaidOnContentsClaim": null,
+   "amountPaidOnIncreasedCostOfComplianceClaim": null
+  },
+  {
+   "yearOfLoss": 2007,
+   "amountPaidOnBuildingClaim": 12700.85,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2021,
+   "amountPaidOnBuildingClaim": 28999.91,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2011,
+   "amountPaidOnBuildingClaim": 464.05,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2007,
+   "amountPaidOnBuildingClaim": 394.08,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2011,
+   "amountPaidOnBuildingClaim": 67680.94,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2021,
+   "amountPaidOnBuildingClaim": 20855.26,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2021,
+   "amountPaidOnBuildingClaim": 76966.41,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2011,
+   "amountPaidOnBuildingClaim": 8753.6,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2011,
+   "amountPaidOnBuildingClaim": 7181.45,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2021,
+   "amountPaidOnBuildingClaim": 93388.96,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2007,
+   "amountPaidOnBuildingClaim": null,
+   "amountPaidOnContentsClaim": null,
+   "amountPaidOnIncreasedCostOfComplianceClaim": null
+  },
+  {
+   "yearOfLoss": 2011,
+   "amountPaidOnBuildingClaim": 124410.83,
+   "amountPaidOnContentsClaim": 57659.4,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1996,
+   "amountPaidOnBuildingClaim": 725.8,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2011,
+   "amountPaidOnBuildingClaim": 5763.66,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2007,
+   "amountPaidOnBuildingClaim": 11315.67,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2007,
+   "amountPaidOnBuildingClaim": 28685.5,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2000,
+   "amountPaidOnBuildingClaim": 5063.98,
+   "amountPaidOnContentsClaim": 9937.49,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2011,
+   "amountPaidOnBuildingClaim": 19616.88,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2021,
+   "amountPaidOnBuildingClaim": 33227.83,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2011,
+   "amountPaidOnBuildingClaim": 20883.04,
+   "amountPaidOnContentsClaim": 487.5,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2021,
+   "amountPaidOnBuildingClaim": 59097.32,
+   "amountPaidOnContentsClaim": 4454.59,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2011,
+   "amountPaidOnBuildingClaim": 85567.55,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1984,
+   "amountPaidOnBuildingClaim": 1123.85,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1999,
+   "amountPaidOnBuildingClaim": 20134.78,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2021,
+   "amountPaidOnBuildingClaim": 0,
+   "amountPaidOnContentsClaim": 36800,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2012,
+   "amountPaidOnBuildingClaim": null,
+   "amountPaidOnContentsClaim": null,
+   "amountPaidOnIncreasedCostOfComplianceClaim": null
+  },
+  {
+   "yearOfLoss": 2021,
+   "amountPaidOnBuildingClaim": 20760.77,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2011,
+   "amountPaidOnBuildingClaim": 2109.17,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1999,
+   "amountPaidOnBuildingClaim": null,
+   "amountPaidOnContentsClaim": null,
+   "amountPaidOnIncreasedCostOfComplianceClaim": null
+  },
+  {
+   "yearOfLoss": 2011,
+   "amountPaidOnBuildingClaim": 2619.91,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1992,
+   "amountPaidOnBuildingClaim": 1017.91,
+   "amountPaidOnContentsClaim": 505.84,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 2012,
+   "amountPaidOnBuildingClaim": null,
+   "amountPaidOnContentsClaim": null,
+   "amountPaidOnIncreasedCostOfComplianceClaim": null
+  },
+  {
+   "yearOfLoss": 2011,
+   "amountPaidOnBuildingClaim": 4422.13,
+   "amountPaidOnContentsClaim": 0,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  },
+  {
+   "yearOfLoss": 1999,
+   "amountPaidOnBuildingClaim": 6830.41,
+   "amountPaidOnContentsClaim": 20800,
+   "amountPaidOnIncreasedCostOfComplianceClaim": 0
+  }
+ ]
+}

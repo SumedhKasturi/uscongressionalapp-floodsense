@@ -1,0 +1,27 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "id": "https://api.weather.gov/alerts/urn:oid:2.49.0.1.840.0.b09900d1647f9e961bd1b5601a12923444011653.001.1",
+   "type": "Feature",
+   "geometry": null,
+   "properties": {
+    "id": "urn:oid:2.49.0.1.840.0.b09900d1647f9e961bd1b5601a12923444011653.001.1",
+    "areaDesc": "San Francisco; North Bay Interior Valleys; San Francisco Bay Shoreline; Northern Monterey Bay; Southern Monterey Bay and Big Sur Coast",
+    "sent": "2026-10-24T13:34:00-07:00",
+    "effective": "2026-10-24T13:34:00-07:00",
+    "expires": "2026-10-25T05:00:00-07:00",
+    "status": "Actual",
+    "messageType": "Update",
+    "severity": "Minor",
+    "certainty": "Likely",
+    "urgency": "Expected",
+    "event": "Coastal Flood Advisory",
+    "headline": "Coastal Flood Advisory issued October 24 at 1:34PM PDT until October 29 at 3:00PM PDT by NWS San Francisco CA",
+    "description": "* WHAT...Up to 1.9ft of inundation above ground level is\npossible in low-lying areas near shorelines and tidal\nwaterways.\n\n* WHERE...Bay Shoreline locations of San Francisco Bay, Monterey\nBay and Big Sur Coast.\n\n* WHEN...Until 3 PM PDT Thursday.\n\n* IMPACTS...High tides will result in flooding of low-lying\ninfrastructure, isolated road closures, and coastal erosion.\nRising tides will bring water and waves farther up the beach\nthan normal, restricting escape from beaches and coastal areas.\n\n* ADDITIONAL DETAILS...At the San Francisco tidal gauge, high tide\nis expected to be 1.5 ft above normal (7.3 ft MLLW) at 11:07 AM\nSunday 10/25, 1.6 ft above normal (7.4 ft MLLW) at 11:39 AM\nMonday 10/26, 1.8 ft above normal (7.6 ft MLLW) at 12:15 PM\nTuesday 10/27, 1.9 ft above normal (7.7 ft MLLW) at 12:56 PM\nWednesday 10/28, and 1.7 ft above normal (7.5 ft MLLW) at 01:43\nPM Thursday 10/29. These predictions include up to 1.0 ft of\nsurge that will enhance the astronomical tide and flooding\nthreat. High tide varies up to 90 minutes earlier or later along\nthe Pacific Coast and through the San Francisco Bay,\nrespectively.",
+    "instruction": "If travel is required, allow extra time as some roads may be\nclosed. Do not drive around barricades or through water of\nunknown depth. Take the necessary actions to protect flood-prone\nproperty."
+   }
+  }
+ ],
+ "title": "Current watches, warnings, and advisories for California"
+}

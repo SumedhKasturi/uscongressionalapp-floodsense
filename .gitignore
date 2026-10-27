@@ -1,0 +1,15 @@
+# Secrets: local only, never committed
+.streamlit/secrets.toml
+
+# Live API cache and pgeocode download
+data/cache/
+.pgeocode/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+
+# Daily app logs
+log/*.log
